@@ -2,8 +2,6 @@
 
 ## Welcome to My GitHub Profile
 
-[LinkedIn](https://www.linkedin.com/in/viviana-fl%C3%B3rez/)
-
 Welcome to my GitHub profile! I'm passionate about DataScience, Machine Learning and Artificial Intelligence. I'm part of RLadies Barranquilla, where we encourage women to use RStudio. I'm currently studing my master degree in Business Analytics and Big Data at IE University where I have learn to develop machine learning models in Python, Streamlit, create amazing data visualizations in Tableau and Microsoft PowerBI. Feel free to explore my repositories and connect with me on LinkedIn.
 
 ## About Me
@@ -23,6 +21,7 @@ Welcome to my GitHub profile! I'm passionate about DataScience, Machine Learning
 ## Languages
 - Spanish (Native)
 - English (Advanced)
+- French (beginner)
 
 ## My Projects
 
