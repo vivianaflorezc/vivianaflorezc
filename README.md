@@ -32,6 +32,7 @@ Here are some of the projects I'm proud of:
 
 ## Other interesting information about me
 🏟️ Event Organizer at Sports Analytics Club
+
 📦 Co-organizer of RLadies Barranquilla 
 
 ## Contact
