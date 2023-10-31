@@ -31,9 +31,9 @@ Here are some of the projects I'm proud of:
 - [Project 2](https://github.com/yourusername/project2)
 
 ## Other interesting information about me
-🏟️ Event Organizer at Sports Analytics Club
-
-📦 Co-organizer of RLadies Barranquilla 
+- 🏟️ Event Organizer at Sports Analytics Club, IE University.
+- 📦 Co-organizer of RLadies Barranquilla 
+- 👩‍💻 Developed of a Machine Learning application with neural networks for image recognition https://dermatech.cloud/
 
 ## Contact
 
