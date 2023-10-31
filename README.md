@@ -11,7 +11,18 @@ Welcome to my GitHub profile! I'm passionate about DataScience, Machine Learning
 - 😄 Pronouns: Viviana
 - 🌱 I’m currently learning Data Science and Machine Learning
 - 👯 I’m looking to collaborate on HealthCare and social impact projects.
-- 📫 How to reach me: You can conect with me on LinkedIn. 
+- 📫 How to reach me: You can conect with me on LinkedIn.
+
+## Skills
+- Python
+- Rstudio
+- Microsoft PowerBI
+- SQL
+- Streamlit
+
+## Languages
+- Spanish (Native)
+- English (Advanced)
 
 ## My Projects
 
