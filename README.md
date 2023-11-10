@@ -27,8 +27,8 @@ Welcome to my GitHub profile! I'm passionate about DataScience, Machine Learning
 
 Here are some of the projects I'm proud of:
 
-- [Project 1](https://github.com/yourusername/project1)
-- [Project 2](https://github.com/yourusername/project2)
+- [Health Care App 1](https://healthcareapp.streamlit.app/)
+- [Health Care App 2](https://appdoctor.streamlit.app/)
 
 ## Other interesting information about me
 - 🏟️ Event Organizer at Sports Analytics Club, IE University.
