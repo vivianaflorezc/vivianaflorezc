@@ -32,6 +32,7 @@ Here are some of the projects I'm proud of:
 
 ## Other interesting information about me
 - 🏟️ Event Organizer at Sports Analytics Club, IE University.
+- 👩‍🏫 Volunteer mentor at Technovation Girls Madrid 2024 edition.
 - 📦 Co-organizer of RLadies Barranquilla 
 - 👩‍💻 Developed of a Machine Learning application with neural networks for image recognition https://dermatech.cloud/
 
